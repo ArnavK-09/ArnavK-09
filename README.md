@@ -1,10 +1,13 @@
 
+  
 
-###  Hi there, I'm Jesse - aka [Arnav K](https://dopeweb.ga) 👋
+###  Hi there, I'm [Arnav K](https://dopeweb.ga) 👋
 
 [![Website](https://img.shields.io/badge/Website-https://dopeweb.ga-1abc9c.svg)](https://dopeweb.ga)
 
-##  I'm a Student!!
+---
+
+###  I'm a Student!!
 
 - ✍ I’m currently doing Timepass 
 
@@ -14,7 +17,12 @@
 
 - 🏆 Fun fact: I love to be Alone
 
-###  Connect with me:  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V3WBURuh4N)
+---
+
+###  Connect with me:  
+[![](https://discord.c99.nl/widget/theme-4/739454321661313025.png)](https://discord.gg/V3WBURuh4N)
+
+---
 
 ###  Languages & Technologies:
 
@@ -30,8 +38,9 @@
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<br />
+
 ---
-<img alt="Bye" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 
+### GitHub Stats
 
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArnavK-09&show_icons=true&hide_border=true&theme=dark" />
