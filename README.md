@@ -3,7 +3,7 @@
 
 ###  Hi there, I'm [Arnav K](https://dopeweb.ga) 👋
 
-[![Website](https://img.shields.io/badge/Website-https://dopeweb.ga-1abc9c.svg)](https://dopeweb.ga)
+[![Website](https://img.shields.io/badge/Website-Soon-1abc9c.svg)](https://google.com/search?q=soon)
 
 ---
 
