@@ -13,7 +13,7 @@
 
 - 🍻 I’m looking for a Dev partner 
 
-- 🥅 2022 Goals: Master Vue
+- 🥅 2022 Goals: Sleep
 
 - 🏆 Fun fact: I love to be Alone
 
