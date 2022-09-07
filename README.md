@@ -9,11 +9,11 @@
 
 ###  I'm a Student!!
 
-- ✍ I’m currently doing Timepass 
+- ✍ I’m currently working on my bot
 
-- 🍻 I’m looking for a Dev partner 
+- 🍻 I’m looking for new JavaScript Framework xdF
 
-- 🥅 2022 Goals: Sleep
+- 🥅 2022 Goals: Get my portfolio done
 
 - 🏆 Fun fact: I love to be Alone
 
