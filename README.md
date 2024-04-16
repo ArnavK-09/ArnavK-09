@@ -1,6 +1,6 @@
 <h1>Hello World! I'm ArnavK</h1><a href="https://github.com/ArnavK-09?tab=repositories" align="center">
 
-```diff!
+```diff
 
 +╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╭━━━┳━━━╮
 ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱┃╭━╮┃╭━╮┃
